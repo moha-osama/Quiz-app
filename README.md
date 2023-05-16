@@ -3,3 +3,12 @@ This is a simple quiz app built with React and TypeScript. It allows users to ta
 
 
 ![](https://github.com/moha-osama/Quiz-app/assets/68459758/39799c0a-53b1-4c62-9727-d08152bccf1f)
+
+<h1>Technologies used:</h1>
+      React JS<br/>
+      TypeScript<br/>
+      styled components
+      
+<h1>Demo👇</h1> [https://magenta-pegasus-09e79c.netlify.app/]
+      
+      
